@@ -1,4 +1,4 @@
-# Photosynthesis Efficiency Prediction using Deep Learning
+# Photosynthesis Efficiency Prediction 
 
 ## Project Overview
 This project predicts photosynthesis efficiency using a Deep Learning model built with TensorFlow/Keras.
